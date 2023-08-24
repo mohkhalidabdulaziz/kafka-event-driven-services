@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "khalid.kafka",
+      "type": "com.khalid.kafkaeventdriven.config.KafkaConfigProps",
+      "sourceType": "com.khalid.kafkaeventdriven.config.KafkaConfigProps"
+    }
+  ],
+  "properties": [
+    {
+      "name": "khalid.kafka.topic",
+      "type": "java.lang.String",
+      "sourceType": "com.khalid.kafkaeventdriven.config.KafkaConfigProps"
+    }
+  ],
+  "hints": []
+}
